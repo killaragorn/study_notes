@@ -1,6 +1,4 @@
-### 1. windows 基础原理
-
-[url](https://github.com/killaragorn/study_notes/tree/master/windows_kernel_programming/chapter0)
+### 1. [windows 基础原理](https://github.com/killaragorn/study_notes/tree/master/windows_kernel_programming/chapter01)
 
 ### 2. windows 驱动开发环境设置
 
